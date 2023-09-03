@@ -4,3 +4,5 @@ Ignoring the staging area
 
 Hoping this will work
 Fetching is still not working
+
+Trying rebase
